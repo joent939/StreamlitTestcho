@@ -9,4 +9,4 @@ btn_clicked = st.button("결제하기", key='confirm_btn', disabled=(checkbox is
 if btn_clicked:
     con = st.container()
     con.caption("Result")
-    con.write(f"Hello~ 믿고 있었다구~~♡♡♡♡")
+    con.write(f"역시뽈~ 믿고 있었다구~~♡♡♡♡")
